@@ -1,0 +1,19 @@
+{
+  "name": "monploy-agent",
+  "version": "0.0.0",
+  "description": "An agent for hosting monploy deployed applications",
+  "keywords": [],
+  "dependencies": {
+    "forever": "~0.11.1",
+    "bouncy": "~3.2.1",
+    "express": "~4.4.3",
+    "then-request": "0.0.4",
+    "body-parser": "~1.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/monploy-agent.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}

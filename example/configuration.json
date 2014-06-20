@@ -1,0 +1,14 @@
+{
+  "hosts": {
+    "example.com": {
+      "location": "version-b",
+      "port": 3006
+    }
+  },
+  "ports": {
+    "3006": {
+      "uid": "mongo_agent_3006",
+      "port": 3006
+    }
+  }
+}
